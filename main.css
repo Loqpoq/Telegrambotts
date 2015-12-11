@@ -5,6 +5,7 @@ body
     margin: 0px;
     padding-top: 50px;
     overflow-x: hidden; 
+    position: relative;
 }
 
 #aboutDiv {
@@ -45,12 +46,16 @@ body
 #timeline {
   padding-top: 20px;
 }
+
 .timeline {
   list-style: none;
   padding: 20px 20px;
   position: relative;
 }
 
+.timeline .glyphicon {
+  padding-top: 10px;
+}
 .timeline:before {
   top: 0;
   bottom: 0;
