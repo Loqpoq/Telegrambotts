@@ -27,7 +27,7 @@ body
 }
 
 #divProfile {
-	background-image: url("photos/profile.jpg");
+	background: url(photos/profile.jpg) center center;
 	background-size: cover;
 	background-repeat: none;
 	height: 400px;
@@ -41,9 +41,13 @@ body
   width: 100%;
   position: static;
 }
+
+ #timeline {
+  padding-top: 20px;
+}
 .timeline {
   list-style: none;
-  padding: 20px 0 20px;
+  padding: 20px 40px;
   position: relative;
 }
 
