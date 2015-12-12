@@ -35,7 +35,7 @@
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="#aboutDiv">About</a></li>
 					<li><a href="#divPortfolio">Portfolio</a></li>
-					<li><a href="divContact">Contact</a></li>
+					<li><a href="#divContact">Contact</a></li>
 				</ul>
 			</div>
 		</div>
@@ -129,23 +129,29 @@
   <div class="col-xs-12 page-header">
     <h1 class="text-center">Get In Touch</h3>
   </div>
-  <form class="form-horizontal" role="form">
+  <form class="form-horizontal" role="form" action="http://www.formspree.io/tenzinphuljung7@email.com"
+      method="POST">
     <div class="form-group">
       <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-        <input  type="text" class="form-control" placeholder="Name">
+        <input  type="text" class="form-control" placeholder="Name" id="name" required="true">
       </div>
     </div>
     <div class="form-group">
       <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-        <input type="email" class="form-control" placeholder="Email">
+        <input type="email" class="form-control" placeholder="Email" name="_replyto" required="true">
       </div>
     </div>
     <div class="form-group">
       <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-        <textarea type="text" class="form-control" placeholder="Message"></textarea>
+        <textarea type="text" class="form-control" placeholder="Message" name="message" rows="10" required="true"></textarea>
       </div>
     </div>
     
+    <div class="form-group">
+      <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-4 text-center">
+        <button type="submit" class="btn btn-lg" name="submit" id="submit" value="Send">Send Message</button>
+      </div>
+    </div>
   </form>
   <div style="padding: 20px 20px">
     

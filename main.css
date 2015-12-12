@@ -222,3 +222,8 @@ body
   position: static;
   padding: 10px 40px 20px 40px;
 }
+
+#submit {
+  background-color: #f2b632;
+  color: white;
+}
