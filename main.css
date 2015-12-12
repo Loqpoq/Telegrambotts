@@ -20,6 +20,7 @@ body
 .navbar-nav li {
   padding-right: 10px;
 }
+
 #aboutDiv {
 	height: 400px;
 }
@@ -49,10 +50,10 @@ body
 /* timeline/projects css starts here */
 
 #divPortfolio {
-  background-color: #252839;
-  color: #b5b5b7;
-  width: 100%;
+  background-color: white;
+  color: #9fa8a3;
   position: static;
+  background-size: cover;
 }
 
 #timeline {
@@ -211,3 +212,12 @@ body
 }
 
 /* timeline css ends here */
+
+
+/* Contact div starts here */
+
+#divContact {
+  background-color: #252839;
+  width: 100%;
+  color: #b5b5b7;
+}
