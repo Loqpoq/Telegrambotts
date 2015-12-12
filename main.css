@@ -53,7 +53,6 @@ body
   background-color: white;
   color: #9fa8a3;
   position: static;
-  background-size: cover;
 }
 
 #timeline {
@@ -220,4 +219,6 @@ body
   background-color: #252839;
   width: 100%;
   color: #b5b5b7;
+  position: static;
+  padding: 10px 40px 20px 40px;
 }
