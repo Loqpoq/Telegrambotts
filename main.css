@@ -1,3 +1,4 @@
+
 body
 {
     width: 100%;
@@ -6,8 +7,12 @@ body
     padding-top: 50px;
     overflow-x: hidden; 
     position: relative;
+    font-family: "Merriweather";
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', sans-serif;
+}
 
 #navbar a {
   font-size: 1.5em;
@@ -226,4 +231,21 @@ body
 #submit {
   background-color: #f2b632;
   color: white;
+}
+
+.btn-circle {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  font-size: 1.7em;
+}
+
+#social-nav {
+  text-align: center;
+  float:none;
+}
+
+.row {
+  padding-right: 0px;
+  margin-right: 0px;
 }
