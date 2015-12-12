@@ -8,6 +8,18 @@ body
     position: relative;
 }
 
+
+#navbar a {
+  font-size: 1.5em;
+}
+
+.navbar-brand{
+  font-size: 2em;
+}
+
+.navbar-nav li {
+  padding-right: 10px;
+}
 #aboutDiv {
 	height: 400px;
 }
