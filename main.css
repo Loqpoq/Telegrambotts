@@ -5,9 +5,14 @@ body
     height: 100%;
     margin: 0px;
     padding-top: 50px;
-    overflow-x: hidden; 
+    overflow-x: hidden;
     position: relative;
     font-family: "Merriweather";
+}
+
+.mainTitle {
+  color: #252839;
+  font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -30,29 +35,29 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #aboutDiv {
-	height: 400px;
+    height: 400px;
 }
 
 #helloDiv {
-	background-color: #677077;
-	color: #b5b5b7;
-	height: 400px;
+    background-color: #677077;
+    color: #b5b5b7;
+    height: 400px;
 }
 
 #helloDiv div {
-	margin-top: 100px;
-	padding-left: 30px;
+    margin-top: 100px;
+    padding-left: 30px;
 }
 
 #helloDiv div h1 {
-	font-size: 4.5em;
+    font-size: 4.5em;
 }
 
 #divProfile {
-	background: url(photos/profile.jpg) center center;
-	background-size: cover;
-	background-repeat: none;
-	height: 400px;
+    background: url(photos/profile.jpg) center center;
+    background-size: cover;
+    background-repeat: none;
+    height: 400px;
 }
 
 /* timeline/projects css starts here */
