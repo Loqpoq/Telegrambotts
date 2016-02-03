@@ -16,6 +16,4 @@ window.onload = function () {
   drawName(myName, letterColors);
 
   bounceName();
-  bounceBubbles();
-
 }
