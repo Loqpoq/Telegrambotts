@@ -11,11 +11,11 @@ window.onload = function () {
   canvas.style.padding = "0px";
   canvas.style.position = "absolute";
 
-
   document.getElementsByClassName('tlt')[0].appendChild(canvas);;
 
   drawName(myName, letterColors);
 
   bounceName();
+  bounceBubbles();
 
 }
