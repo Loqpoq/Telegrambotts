@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getl",
+				"getLeader"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"get",
+				"getJSON"
+			],
+			[
+				"tem",
+				"temp"
+			],
+			[
+				"temp",
+				"temp_celcius"
+			],
+			[
+				"b",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"wind",
+				"wind_speed_in_knots"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"lon",
+				"longitude"
+			],
+			[
+				"jquery",
+				"jquery-ui-1"
+			],
+			[
+				"coun",
+				"countDownTimer"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"backg",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"floot",
+				"Floobits - Complete Sign Up"
+			],
+			[
+				"bits",
+				"Floobits - Join Workspace"
+			],
+			[
+				"fl",
+				"Floobits - Leave Workspace"
+			],
+			[
+				"remoteho",
+				"Remote: Host Session"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 720.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/tenzi/Dropbox/github/portfolio",
+		"/C/Users/tenzi/Dropbox/github/portfolio/js"
+	],
+	"file_history":
+	[
+		"/C/Users/tenzi/Dropbox/github/portfolio/index.html",
+		"/C/Users/tenzi/Dropbox/github/portfolio/js/scripts.js",
+		"/C/Users/tenzi/Desktop/animate.html",
+		"/C/Users/tenzi/Desktop/animate.js",
+		"/C/Users/tenzi/Desktop/conFusion/app/scripts/services.js",
+		"/C/Users/tenzi/Desktop/conFusion/app/views/header.html",
+		"/C/Users/tenzi/Desktop/conFusion/app/index.html",
+		"/C/Users/tenzi/Desktop/conFusion/app/views/menu.html",
+		"/C/Users/tenzi/Desktop/conFusion/app/views/dishdetail.html",
+		"/C/Users/tenzi/Desktop/conFusion/app/views/home.html",
+		"/C/Users/tenzi/Desktop/conFusion/app/views/aboutus.html",
+		"/C/Users/tenzi/Desktop/conFusion/app/scripts/app.js",
+		"/C/Users/tenzi/Desktop/conFusion/app/scripts/controllers.js",
+		"/C/Users/tenzi/Desktop/conFusion/app/views/footer.html",
+		"/C/Users/tenzi/Desktop/conFusion/app/contactus.html",
+		"/C/Users/tenzi/Desktop/conFusion/app/dishdetail.html",
+		"/C/Users/tenzi/Desktop/conFusion/app/menu.html",
+		"/C/Users/tenzi/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/tenzi/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/tenzi/Dropbox/github/alraya_first/css/styles.css",
+		"/C/Users/tenzi/Dropbox/github/alraya_first/contact.html",
+		"/C/Users/tenzi/Dropbox/github/alraya_first/vacations.html",
+		"/C/Users/tenzi/Dropbox/github/alraya_first/about.html",
+		"/C/Users/tenzi/Dropbox/github/alraya_first/flights_offers.html",
+		"/C/Users/tenzi/Dropbox/github/alraya_first/index.html",
+		"/C/Users/tenzi/Dropbox/github/alraya_first/hajj.html",
+		"/C/Users/tenzi/Dropbox/github/alraya_first/umrah.html",
+		"/C/Users/tenzi/Dropbox/github/alraya_first/packages.html",
+		"/C/Users/tenzi/.babunrc",
+		"/C/Users/tenzi/Dropbox/github/euler-project/large_sum/large_sum.rb",
+		"/C/Users/tenzi/Dropbox/github/euler-project/longest_collatz_sequence/longest_collatz_sequence.rb",
+		"/C/Users/tenzi/Dropbox/github/euler-project/max_path_sum_1_18/max_path_sum_1.rb",
+		"/C/Users/tenzi/Dropbox/github/euler-project/Max_product_#8/max_product.rb",
+		"/C/Users/tenzi/Dropbox/github/euler-project/summation_of_primes/summation_of_primes.rb",
+		"/C/Users/tenzi/Dropbox/github/wiki_search/js/scripts.js",
+		"/C/Users/tenzi/Dropbox/github/pomodoro/scripts.js",
+		"/C/Users/tenzi/Dropbox/github/portfolio/css/styles.css",
+		"/C/Users/tenzi/Dropbox/github/wiki_search/index.html",
+		"/C/Users/tenzi/Dropbox/github/alraya_first/js/scripts.js",
+		"/C/Users/tenzi/Dropbox/github/weather/scripts.js",
+		"/C/Users/tenzi/Dropbox/github/weather/styles.css",
+		"/C/Users/tenzi/Dropbox/github/weather/index.html",
+		"/C/Users/tenzi/Dropbox/github/portfolio/main.css",
+		"/C/Users/tenzi/Dropbox/github/calculator/myscripts.js",
+		"/C/Users/tenzi/Dropbox/github/calculator/mystyles.css",
+		"/C/Users/tenzi/Dropbox/github/calculator/index.html",
+		"/C/Users/tenzi/Dropbox/github/calculator/jquery.js",
+		"/C/Users/tenzi/Dropbox/github/confusion/aboutus.html",
+		"/C/Users/tenzi/Dropbox/github/confusion/contactus.html",
+		"/C/Users/tenzi/Dropbox/github/confusion/index.html",
+		"/C/Users/tenzi/floobits/welcome.md",
+		"/C/Users/tenzi/Dropbox/github/quote-machine/mystyles.css",
+		"/C/Users/tenzi/Dropbox/github/quote-machine/index.html",
+		"/C/Users/tenzi/Dropbox/github/quote-machine/scripts.js",
+		"/C/Users/tenzi/Dropbox/github/pomodoro/index.html",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/sum_primes/sum_primes.md",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/sum_primes/sum_primes.js",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/sum_fibs/sum_fibs.md",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/sum_fibs/sum_fibs.js",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/spinal_tap/spinal_tap.md",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/spinal_tap/spinal_tap.js",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/convert_html/convert_html.md",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/convert_html/convert_html.js",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/sorted_union/sorted_union.md",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/sorted_union/sorted_union.js",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/sorted_union/.sorted_union.js",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/boo_who/boo_who.js",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/boo_who/boo_who.md",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/missing_letters/missing_letters.js",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/missing_letters/missing_letters.md",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/dna_pairing/dna_pairing.js",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/dna_pairing/dna_pairing.md",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/pig_latin/pig_latin.md",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/pig_latin/pig_latin.js",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/search_and_replace/search_and_replace.md",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/search_and_replace/search_and_replace.js",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/Where_art_thou/compare_object.md",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/Where_art_thou/compare_object.js",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/roman_numeral_converter/convert.md",
+		"/C/Users/tenzi/Dropbox/github/programming_problems/freecodecamp/intermediate/roman_numeral_converter/convert.js",
+		"/C/Users/tenzi/Dropbox/github/pomodoro/mystyles.css",
+		"/C/Users/tenzi/Dropbox/github/pomodoro/scriptsbackup.js",
+		"/C/Users/tenzi/Dropbox/github/tutoring_developer_tenzin/index.html",
+		"/C/Users/tenzi/Dropbox/github/portfolio/CNAME",
+		"/C/Users/tenzi/Dropbox/github/project-websites/portfolio/main.css",
+		"/C/Users/tenzi/Dropbox/github/project-websites/portfolio/index.html",
+		"/C/Users/tenzi/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SIDE\nside\nsid#\nside\nSIDE\nPANEL\nPANEL",
+			"head",
+			"        ",
+			"    ",
+			"\n    ",
+			"\n         ",
+			"title",
+			"{\n",
+			"page-header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "developertenzin.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 311.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 588.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_char_search_command": "vi_t",
+		"_vintageous_last_character_search": ";",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "C:\\Program Files\\Sublime Text 3"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
