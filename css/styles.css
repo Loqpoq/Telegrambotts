@@ -36,6 +36,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #aboutDiv {
     height: 400px;
+    max-width: 1600px;
+    margin: 0 auto;
 }
 
 #helloDiv {
